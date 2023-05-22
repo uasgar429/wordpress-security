@@ -1,4 +1,4 @@
-# wordpress-security
+#Secure your Wordpress site
 
 **Disable file editing in WordPress admin **
 
